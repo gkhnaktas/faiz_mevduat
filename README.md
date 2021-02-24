@@ -1,2 +1,3 @@
-# faiz_mevduat
-Banka kredisi ödeme planı ve mevduat hesabı faiz getirisi hesabı için basit bir araç.
+# Kredi & Faiz Hesaplama Aracı
+
+Banka kredisi ödeme planı oluşturmak ve mevduat hesabının faiz getirisini hesaplamak için basit bir araç.
